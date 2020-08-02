@@ -8,7 +8,7 @@ Time spent: **4** hours spent in total
 
 ## User Stories
 
-## User Story 1
+## User Story 2
 
 The following **required** functionality is complete:
 
@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/SviMice.gif' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/Ro8FdZE.gif' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
