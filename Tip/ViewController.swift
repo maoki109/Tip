@@ -19,6 +19,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         // Do any additional setup after loading the view.
+        // Sets the title in the Navigation Bar
+        self.title = "Tip Calculator"
+        
+        billAmountTextField.becomeFirstResponder()
     }
     
     @IBAction func onTap(_ sender: Any) {
