@@ -4,9 +4,36 @@
 
 Submitted by: **Mari Aoki**
 
-Time spent: **6** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
+
+## User Story 4
+
+The following **required** functionality is complete:
+
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+
+The following **optional** features are implemented:
+* [x] Settings page to change the default tip percentage.
+* [ ] UI animations
+* [x] Remembering the bill amount across app restarts (if <10mins)
+* [x] Using locale-specific currency and currency thousands separators.
+* [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+
+The following **additional** features are implemented:
+
+- [x] User can choose a custom (integer) tip percentage using a slider
+- [x] Settings page uses a slider to set default tip percentage
+- [x] Added a background color to the app
+
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://im4.ezgif.com/tmp/ezgif-4-a6a4e2a8a376.gif' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## User Story 3
 
@@ -90,6 +117,7 @@ Describe any challenges encountered while building the app:
 - Renaming IB Outlets and creating new functions created unused outlets that caused problems at run time
 - Making sure all portions of the app updated correctly using User Defaults
 - Picking the right type to cast UserDefaults information to labels, textfields, and slider
+- Last GIF was too long and Imgur converted it into an mp4, which cannot be embedded in markdown. Had to use another site to convert the mp4 to gif. 
 
 ## License
 
